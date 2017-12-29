@@ -28,8 +28,7 @@
     "@adonisjs/shield": "^1.0.4",
     "@adonisjs/validator": "^4.0.8",
     "@adonisjs/vow": "^1.0.13",
-    "mysql": "^2.15.0",
-    "url-parse": "^1.2.0"
+    "mysql": "^2.15.0"
   },
   "devDependencies": {},
   "autoload": {
