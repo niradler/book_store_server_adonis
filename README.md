@@ -1,5 +1,5 @@
 # Adonis Book Store Server
-
+[Links:]
 - GET [/](https://book-store-adonis.herokuapp.com)
 - GET [/api/book/1](https://book-store-adonis.herokuapp.com/api/book/1)
 - GET [/api/books](https://book-store-adonis.herokuapp.com/api/books)
@@ -14,7 +14,7 @@
 
 # Controllers
 
--[BookController](https://github.com/niradler/book_store_server_adonis/blob/master/app/Controllers/Http/BookController.js)
+- [BookController](https://github.com/niradler/book_store_server_adonis/blob/master/app/Controllers/Http/BookController.js)
 
 # Models
 
