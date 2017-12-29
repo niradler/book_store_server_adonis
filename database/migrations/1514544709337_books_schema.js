@@ -13,7 +13,7 @@ class BooksSchema extends Schema {
       table.string('ISBN');
       table.double('price');
       table.date('publication_date');
-      table.timestamps(false,true);
+      table.timestamps();
     })
   }
 
